@@ -1954,7 +1954,7 @@ Used for data blocks Overview by Agent/Queue
     qa_prc_act=%
     qa_prc_min=% erforderlich
     # 🔴 qa_print_report -> Print QA Report
-    ➡️ qa_print_report=
+    ➡️ qa_print_report= Druck QA Bericht
     qa_queryfilterwarn=Es wird jeweils nur eine Agentenfilterauswahl unterstützt.
     qa_queue=Warteschlange
     qa_range=Reichweite
@@ -2754,7 +2754,7 @@ Description of configuration properties
     propedit_key_wb_recovery_min=Mindestintervall in Sekunden zwischen WebSocket-Wiederverbindungsversuchen. Der Standardwert ist 2.
     propedit_key_wombat_password_desc=WombatDialer Passwort
     # 🔴 propedit_key_wombat_prevdial_desc -> URL of WombatDialer's preview dialing page.
-    ➡️ propedit_key_wombat_prevdial_desc= URL des WombatDialer's Vorschau- Wahlseite
+    ➡️ propedit_key_wombat_prevdial_desc= URL des WombatDialer's Vorschau-Wahlseite
     propedit_key_wombat_url_desc=Die Haupt-URL von WombatDialer
     propedit_key_wombat_username_desc=WombatDialer-Benutzername
     propedit_option_barge=Lastkahn
@@ -2775,7 +2775,7 @@ Description of configuration properties
     # 🔴 propedit_option_hide3 -> hide3
     ➡️ propedit_option_hide3= versteckt3
     # 🔴 propedit_option_hide5 -> hide5
-    ➡️ propedit_option_hide5= versetckt5
+    ➡️ propedit_option_hide5= versteckt5
     propedit_option_jsonapi=JSON API
     propedit_option_mirtapbx=MirtaPBX
     propedit_option_no=Nein
@@ -3088,7 +3088,7 @@ Description of security keys:
     home_add_infobox=InfoBox hinzufügen
     home_configuration_agents=Agenten
     # 🔴 home_configuration_cases -> Cases
-    ➡️ home_configuration_cases= Fall
+    ➡️ home_configuration_cases= Cases
     home_configuration_cbt=CBTs
     home_configuration_clients= Kunden
     home_configuration_custom_blocks=Benutzerdefinierte Datenblöcke
@@ -3242,7 +3242,7 @@ Other items
     bdcmsg_Time=Zeit
     callselectordecor_select=Wählen Sie diesen Anruf
     # 🔴 ccase_case_name -> Case
-    ➡️ ccase_case_name= Fall
+    ➡️ ccase_case_name= Case
     # 🔴 ccase_case_xref -> Ref. #
     ➡️ ccase_case_xref= Ref. '
     ccase_client_name= Kunde
@@ -3417,7 +3417,7 @@ Other items
     memo_from= von
     memo_group= Gruppe
     # 🔴 memo_id -> Id
-    ➡️ memo_id= ID
+    ➡️ memo_id= Id
     memo_items_found= gefundene Items
     memo_list=Memo Liste
     memo_list_norecords= Keine Aufzeichnungen
@@ -3431,7 +3431,7 @@ Other items
     ➡️ memo_status= Status
     memo_tree_empty= leer
     # 🔴 memo_tree_title -> Linked memos
-    ➡️ memo_tree_title= verknüfte Memos
+    ➡️ memo_tree_title= verknüpfte Memos
     memo_type= Typ
     menu_licence_page=Lizenz Seite
     menu_user_page=Benutzer-Infos
@@ -4411,7 +4411,7 @@ Other items
     # 🔴 sync2_chunker_actions -> Actions left
     ➡️ sync2_chunker_actions= Aktion verlassen
     # 🔴 sync2_chunker_chunks -> Uploading configuration
-    ➡️ sync2_chunker_chunks= Uploading konfigurieren
+    ➡️ sync2_chunker_chunks= Uploading Konfiguration
     # 🔴 sync2_chunker_sending -> Applying actions
     ➡️ sync2_chunker_sending= Aktion anwenden
     # 🔴 sync2_chunker_waiting -> Waiting...
